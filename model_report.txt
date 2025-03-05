@@ -1,0 +1,38 @@
+Model Performance Report
+==============================
+Model: Linear Regression
+  R2 Score: 0.9030
+  Mean Squared Error: 9.4964
+------------------------------
+Model: Decision Tree
+  R2 Score: 0.9693
+  Mean Squared Error: 2.8689
+------------------------------
+Model: Random Forest
+  R2 Score: 0.9792
+  Mean Squared Error: 1.9406
+------------------------------
+Model: Support Vector Regression
+  R2 Score: 0.6921
+  Mean Squared Error: 30.3061
+------------------------------
+Model: K-Nearest Neighbors
+  R2 Score: 0.9533
+  Mean Squared Error: 4.5940
+------------------------------
+Model: Gradient Boosting
+  R2 Score: 0.9864
+  Mean Squared Error: 1.2776
+------------------------------
+Model: AdaBoost
+  R2 Score: 0.9506
+  Mean Squared Error: 4.7848
+------------------------------
+Model: Extra Trees
+  R2 Score: 0.9826
+  Mean Squared Error: 1.6237
+------------------------------
+Model: Ridge Regression
+  R2 Score: 0.8979
+  Mean Squared Error: 9.9994
+------------------------------
